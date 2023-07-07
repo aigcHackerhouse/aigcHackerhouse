@@ -1,16 +1,14 @@
-### Hi there 👋
+# AIGC独立开发者开源讨论
 
-<!--
-**aigcHackerhouse/aigcHackerhouse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+欢迎有AIGC独立开发者创建Issue进行讨论。
 
-Here are some ideas to get you started:
+这里欢迎：
+- demo展示，独立开发者的产品推广
+- 讨论+组队
+- 闲聊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Twitter@AigcHackerHouse
+
+## Discord[WIP]
+
+## 加微信群[WIP]
